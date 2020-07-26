@@ -1,4 +1,4 @@
-# React Native concepts
+# React Native Concepts
 Challenge applied in the GoStack Bootcamp
 
 ## Requirement
