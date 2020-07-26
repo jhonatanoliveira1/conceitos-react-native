@@ -28,6 +28,7 @@ Start testing
 ```bash
 yarn test
 #yarn test --watchAll 
+```
 
 ## Testing
 
