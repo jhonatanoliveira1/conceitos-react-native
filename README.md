@@ -20,11 +20,14 @@ yarn
 
 ## Usage
 
-Sart testing
+Start Server
+```bash
+yarn dev:server
+```
+Start testing
 ```bash
 yarn test
 #yarn test --watchAll 
-```
 
 ## Testing
 
